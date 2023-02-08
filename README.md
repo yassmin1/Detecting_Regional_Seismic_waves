@@ -1,5 +1,5 @@
 
-![]<https://docs.ecognition.com/Resources/Images/ECogUsr/UG_CNN_scheme.png>
+![Detecting_Regional_SeismicPhases](https://docs.ecognition.com/Resources/Images/ECogUsr/UG_CNN_scheme.png)
 
 
 
