@@ -3,7 +3,7 @@
 ![Detecting Regional Seismic Phases](https://docs.ecognition.com/Resources/Images/ECogUsr/UG_CNN_scheme.png)
 
 ## Objective: 
-- It is  a primary work to detect regional seismic phases to be used later in seismic analysis.   
+- It is  a primary work to detect regional seismic phases to be used later in seismic Tomography, physical strucure, and seismic analysis.   
 - In this code I applied convolutional neural network on labeled spectral and temporal seismic records.
 
 ## Result:
