@@ -4,7 +4,7 @@
 
 ## Objective: 
 - It is  a primary work to detect regional seismic phases to be used later in seismic analysis.   
-- In this code I apply convolutional neural network on labeled spectral and temporal seismic records.
+- In this code I applied convolutional neural network on labeled spectral and temporal seismic records.
 
 ## Result:
-- was promissing and suggested the need to more seismic data to imporve the F1 score. 
+- It was promissing and suggested the need to more seismic data to imporve the F1 score. 
